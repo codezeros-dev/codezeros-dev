@@ -1,0 +1,130 @@
+{
+          "name": "Swap Token List",
+          "timestamp": "2020-09-24T03:56:36.147Z",
+          "version": {
+            "major": 1,
+            "minor": 7,
+            "patch": 0
+          },
+          "tags": {},
+          "logoURI": "https://dnkplacumu1sr.cloudfront.net/crypto_com_logo.svg",
+          "keywords": [
+            "cro",
+            "defi",
+            "swap"
+          ],
+          "tokens": [
+	    {
+		"name": "NEXT.exchange",
+                "address": "0x4e005a760e00e17c4912a8070eec047cfecbabbb",
+                "symbol": "NEXT",
+                "decimals": 18,
+                "chainId": 1,
+                "logoURI": "https://next.exchange/favicon/apple-icon.png"
+	    },
+	    {
+                "name": "PayAccept",
+                "address": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
+                "symbol": "PAYT",
+                "decimals": 18,
+                "chainId": 1,
+                "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
+            },	
+            {
+              "name": "Compound",
+              "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+              "symbol": "COMP",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/COMP/color_icon.png"
+            },
+            {
+              "name": "Dai Stablecoin",
+              "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+              "symbol": "DAI",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
+            },
+            {
+              "name": "Harvest Finance",
+              "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+              "symbol": "FARM",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/7025845c-661e-455d-9a05-e23060c6ccf7_FARM-xxxhdpi.png"
+            },
+            {
+              "name": "ChainLink Token",
+              "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+              "symbol": "LINK",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/LINK/color_icon.png"
+            },
+            {
+              "name": "Swerve",
+              "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+              "symbol": "SWRV",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/4c5568c7-4796-48ce-8be3-d16f4e04b543_SWRV%404x.png"
+            },
+            {
+              "name": "UMA",
+              "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+              "symbol": "UMA",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/e2850554-ccf6-4514-9c3c-a17e19dea82f_UMAxxxhdpi.png"
+            },
+            {
+              "name": "Uniswap",
+              "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+              "symbol": "UNI",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/d0352dd9-5de8-4633-839d-bc3422c44d9c_UNI%404x.png"
+            },
+            {
+              "name": "USDCoin",
+              "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+              "symbol": "USDC",
+              "decimals": 6,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/USDC/color_icon.png"
+            },
+            {
+              "name": "Tether USD",
+              "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+              "symbol": "USDT",
+              "decimals": 6,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/USDT/color_icon.png"
+            },
+            {
+              "name": "Wrapped BTC",
+              "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+              "symbol": "WBTC",
+              "decimals": 8,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/c27778b1-f402-45f0-9225-f24f24b0518a_WBTC-xxxhdpi.png"
+            },
+            {
+              "name": "Wrapped Ether",
+              "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "symbol": "WETH",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+            },
+            {
+              "name": "yearn.finance",
+              "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+              "symbol": "YFI",
+              "decimals": 18,
+              "chainId": 1,
+              "logoURI": "https://images.prismic.io/token-price-prod/917bc4fa-59d4-40f5-a3ef-33035698ffe0_YFIxxxhdpi.png"
+            }
+          ]
+        }
