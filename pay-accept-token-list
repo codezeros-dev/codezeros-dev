@@ -15,9 +15,9 @@
           ],
           "tokens": [
 	    {
-		"name": "NEXT.exchange",
-                "address": "0x4e005a760e00e17c4912a8070eec047cfecbabbb",
-                "symbol": "NEXT",
+		"name": "BlastToken",
+                "address": "0x20b808bdB53A36d3fe9896c999668ba75b147052",
+                "symbol": "BST",
                 "decimals": 18,
                 "chainId": 3,
                 "logoURI": "https://next.exchange/favicon/apple-icon.png"
@@ -31,9 +31,9 @@
                 "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
             },	
             {
-              "name": "Compound",
-              "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-              "symbol": "COMP",
+              "name": "TestToken",
+              "address": "0x521e9ADd4E891Bc3aD23Aa1f911E366d4eB79Ada",
+              "symbol": "TST",
               "decimals": 18,
               "chainId": 3,
               "logoURI": "https://crypto.com/price/coin-data/icon/COMP/color_icon.png"
