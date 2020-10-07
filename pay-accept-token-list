@@ -23,10 +23,10 @@
                 "logoURI": "https://next.exchange/favicon/apple-icon.png"
 	    },
 	    {
-                "name": "PayAccept",
-                "address": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
-                "symbol": "PAYT",
-                "decimals": 18,
+                "name": "Mahendra",
+                "address": "0xdb63837588D29be5D82240F67930275c53458a3c",
+                "symbol": "CRO",
+                "decimals": 8,
                 "chainId": 3,
                 "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
             },	
