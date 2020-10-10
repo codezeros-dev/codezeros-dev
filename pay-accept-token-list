@@ -15,18 +15,18 @@
           ],
           "tokens": [
 	    {
-		"name": "BlastToken",
-                "address": "0x20b808bdB53A36d3fe9896c999668ba75b147052",
-                "symbol": "BST",
+		"name": "AAAAAA",
+                "address": "0x2dD6f942e054FF753F07d51907ff58aA1cb7FEDC",
+                "symbol": "AAA",
                 "decimals": 18,
                 "chainId": 3,
                 "logoURI": "https://next.exchange/favicon/apple-icon.png"
 	    },
 	    {
-                "name": "Mahendra",
-                "address": "0xdb63837588D29be5D82240F67930275c53458a3c",
-                "symbol": "CRO",
-                "decimals": 8,
+                "name": "BBBBBB",
+                "address": "0xEeBfdF440D0ac8f74C598c66Ef5C14e798c4BBc8",
+                "symbol": "BBB",
+                "decimals": 18,
                 "chainId": 3,
                 "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
             },	
