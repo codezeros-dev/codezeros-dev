@@ -1,0 +1,34 @@
+{
+          "name": "Swap Token List",
+          "timestamp": "2020-09-24T03:56:36.147Z",
+          "version": {
+            "major": 1,
+            "minor": 7,
+            "patch": 0
+          },
+          "tags": {},
+          "logoURI": "https://dnkplacumu1sr.cloudfront.net/crypto_com_logo.svg",
+          "keywords": [
+            "cro",
+            "defi",
+            "swap"
+          ],
+          "tokens": [
+	    {
+		"name": "CCZZ",
+                "address": "0x708773915C2E0017c1e9461816762b85F2bA0c3B",
+                "symbol": "CZ",
+                "decimals": 18,
+                "chainId": 3,
+                "logoURI": "https://next.exchange/favicon/apple-icon.png"
+	    },
+	    {
+                "name": "WWCC",
+                "address": "0x1231Cf9D784A9541Def5ac5F3c2B18bA0E92Bf6a",
+                "symbol": "WC",
+                "decimals": 18,
+                "chainId": 3,
+                "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
+            }
+          ]
+        }
