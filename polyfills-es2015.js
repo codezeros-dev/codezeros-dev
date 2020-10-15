@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/codezeros/project/codezeros/spacechain-token-migration/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/codezeros/Documents/spacechain-token-migration/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

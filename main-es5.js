@@ -17,7 +17,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! /home/codezeros/project/codezeros/spacechain-token-migration/src/main.ts */
+      /*! /home/codezeros/Documents/spacechain-token-migration/src/main.ts */
       "zUnb");
       /***/
     },
@@ -1101,7 +1101,7 @@
     /***/
     4:
     /*!************************!*\
-      !*** buffer (ignored) ***!
+      !*** crypto (ignored) ***!
       \************************/
 
     /*! no static exports found */
@@ -1115,9 +1115,9 @@
 
     /***/
     5:
-    /*!************************!*\
-      !*** crypto (ignored) ***!
-      \************************/
+    /*!**********************!*\
+      !*** util (ignored) ***!
+      \**********************/
 
     /*! no static exports found */
 
@@ -1145,9 +1145,9 @@
 
     /***/
     7:
-    /*!**********************!*\
-      !*** util (ignored) ***!
-      \**********************/
+    /*!************************!*\
+      !*** buffer (ignored) ***!
+      \************************/
 
     /*! no static exports found */
 

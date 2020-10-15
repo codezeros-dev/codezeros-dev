@@ -2588,7 +2588,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! /home/codezeros/project/codezeros/spacechain-token-migration/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
+      /*! /home/codezeros/Documents/spacechain-token-migration/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
       "mRIq");
 
       __webpack_require__(
@@ -2596,7 +2596,7 @@
       "R0gw");
 
       module.exports = __webpack_require__(
-      /*! /home/codezeros/project/codezeros/spacechain-token-migration/src/polyfills.ts */
+      /*! /home/codezeros/Documents/spacechain-token-migration/src/polyfills.ts */
       "hN/g");
       /***/
     },

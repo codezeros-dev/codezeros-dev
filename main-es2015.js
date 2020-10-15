@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/codezeros/project/codezeros/spacechain-token-migration/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/codezeros/Documents/spacechain-token-migration/src/main.ts */"zUnb");
 
 
 /***/ }),
@@ -475,7 +475,7 @@ MyWalletComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefine
 
 /***/ 4:
 /*!************************!*\
-  !*** buffer (ignored) ***!
+  !*** crypto (ignored) ***!
   \************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -485,9 +485,9 @@ MyWalletComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefine
 /***/ }),
 
 /***/ 5:
-/*!************************!*\
-  !*** crypto (ignored) ***!
-  \************************/
+/*!**********************!*\
+  !*** util (ignored) ***!
+  \**********************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -507,9 +507,9 @@ MyWalletComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefine
 /***/ }),
 
 /***/ 7:
-/*!**********************!*\
-  !*** util (ignored) ***!
-  \**********************/
+/*!************************!*\
+  !*** buffer (ignored) ***!
+  \************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
