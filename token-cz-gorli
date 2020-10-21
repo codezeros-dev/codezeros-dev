@@ -1,0 +1,33 @@
+{
+          "name": "Swap Token List",
+          "timestamp": "2020-09-24T03:56:36.147Z",
+          "version": {
+            "major": 1,
+            "minor": 7,
+            "patch": 0
+          },
+          "tags": {},
+          "logoURI": "https://dnkplacumu1sr.cloudfront.net/crypto_com_logo.svg",
+          "keywords": [
+            "defi",
+            "swap"
+          ],
+          "tokens": [
+	    {
+		"name": "AAAA",
+                "address": "0x43F24a18c7F98D5B0170C29638c607f942ec0f3F",
+                "symbol": "AA",
+                "decimals": 18,
+                "chainId": 5,
+                "logoURI": "https://next.exchange/favicon/apple-icon.png"
+	    },
+	    {
+                "name": "BBBB",
+                "address": "0x410615CC14f342e8493146Ed28a7186C247a4A86",
+                "symbol": "CC",
+                "decimals": 18,
+                "chainId": 5,
+                "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
+            }
+          ]
+        }
